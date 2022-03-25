@@ -36,7 +36,7 @@ header section {
 header section ul {
     list-style-type: none;
 }
-
+/* Changed header div into header section */
 header section ul li {
     display: inline-block;
     margin-left: 25px;
@@ -86,24 +86,24 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Combined all three benefit into one */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Combined all three benefit h3 into one  */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Combined all three benefit img. into one benifit */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
+/* Combined all there online  */
 .online {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +120,33 @@ p {
 .online h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+#search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+#online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+#social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
 }
 
 .footer {
