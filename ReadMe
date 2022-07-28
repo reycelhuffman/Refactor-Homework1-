@@ -1,7 +1,13 @@
-Refactor Homework
-Started with putting in a header, and then changing every single div into a section into the html
-Added Alt and comment into the image source. 
-Combined all benefits into one since there was two other that's the same thing.
-Changed header div into header section 
-Combined all three online images in my CSS 
-Moved the footer to the right location
+## Refactor Homework
+
+## Description 
+Edited web site to make sure all properties can be seen and everything fits in one page. 
+I first worked on the header, changed everything to sections,
+then placed the nav bar in the proper side.  I also added Alt and comment into the image source and 
+combined all benefits into one since there was two other that's the same thing.
+Changed header div into header section and combined all three online images in my CSS 
+and then moved the footer to the right location. 
+
+##Credits:
+Joshua Christianson 
+
